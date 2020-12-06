@@ -1,35 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fa071f0.chunk.css",
-    "main.js": "/static/js/main.638505db.chunk.js",
-    "main.js.map": "/static/js/main.638505db.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c7dcdad8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c7dcdad8.js.map",
-    "static/js/2.b4332b4b.chunk.js": "/static/js/2.b4332b4b.chunk.js",
-    "static/js/2.b4332b4b.chunk.js.map": "/static/js/2.b4332b4b.chunk.js.map",
+    "main.css": "/static/css/main.e86e41ef.chunk.css",
+    "main.js": "/static/js/main.29567e44.chunk.js",
+    "main.js.map": "/static/js/main.29567e44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.589625ce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.589625ce.js.map",
+    "static/js/2.dd7c725b.chunk.js": "/static/js/2.dd7c725b.chunk.js",
+    "static/js/2.dd7c725b.chunk.js.map": "/static/js/2.dd7c725b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9fa071f0.chunk.css.map": "/static/css/main.9fa071f0.chunk.css.map",
-    "static/js/2.b4332b4b.chunk.js.LICENSE.txt": "/static/js/2.b4332b4b.chunk.js.LICENSE.txt",
+    "static/css/main.e86e41ef.chunk.css.map": "/static/css/main.e86e41ef.chunk.css.map",
+    "static/js/2.dd7c725b.chunk.js.LICENSE.txt": "/static/js/2.dd7c725b.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/Helvetica.7bf236a6.woff",
     "static/media/style.css": "/static/media/yellow-star.13ee60e1.svg",
     "static/media/cero.e614e3c2.svg": "/static/media/cero.e614e3c2.svg",
     "static/media/fight.f819afcd.svg": "/static/media/fight.f819afcd.svg",
     "static/media/fox.1dd57e24.svg": "/static/media/fox.1dd57e24.svg",
-    "static/media/my.70af4ca5.svg": "/static/media/my.70af4ca5.svg",
-    "static/media/player_magic_1.7d2ab63e.svg": "/static/media/player_magic_1.7d2ab63e.svg",
-    "static/media/player_magic_2.8aa88aca.svg": "/static/media/player_magic_2.8aa88aca.svg",
     "static/media/player_magic_3.af8ffbbb.svg": "/static/media/player_magic_3.af8ffbbb.svg",
-    "static/media/player_thief_1.8e44b1c9.svg": "/static/media/player_thief_1.8e44b1c9.svg",
-    "static/media/player_thief_2.ca63c85a.svg": "/static/media/player_thief_2.ca63c85a.svg",
     "static/media/player_thief_3.9c7c9c16.svg": "/static/media/player_thief_3.9c7c9c16.svg",
-    "static/media/player_warrior_1.1d0036f6.svg": "/static/media/player_warrior_1.1d0036f6.svg",
-    "static/media/player_warrior_2.d140bd85.svg": "/static/media/player_warrior_2.d140bd85.svg",
     "static/media/player_warrior_3.3556ebaf.svg": "/static/media/player_warrior_3.3556ebaf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7dcdad8.js",
-    "static/js/2.b4332b4b.chunk.js",
-    "static/css/main.9fa071f0.chunk.css",
-    "static/js/main.638505db.chunk.js"
+    "static/js/runtime-main.589625ce.js",
+    "static/js/2.dd7c725b.chunk.js",
+    "static/css/main.e86e41ef.chunk.css",
+    "static/js/main.29567e44.chunk.js"
   ]
 }
